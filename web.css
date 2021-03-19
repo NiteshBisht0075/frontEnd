@@ -44,13 +44,11 @@ div.topimg{
     margin-bottom: 20px;
     border: 1px solid #ccc;
   }
-  /* .img2 {
+  .img2 {
     height: 290px;
     width: 345px;
-  } */
-  /* div.images{
-    margin: auto;
-  } */
+  }
+
   div.text{
     height: 290px;
     width: 345px;
@@ -65,7 +63,7 @@ div.topimg{
 
 
   .footer {  
-    /* position: fixed;   */
+    
     left: 10px;  
     bottom: 5px;  
     right: 10px;   
@@ -74,10 +72,7 @@ div.topimg{
     color: white;  
     text-align: center;  
     height:60px;
-    /* margin-bottom: 10em; */
-    /* margin-left:5em ; */
-    /* text-align: center;
-    justify-content: center; */
+
     }  
     #inside {
       /* margin-left: auto;
